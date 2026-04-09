@@ -60,10 +60,10 @@ Where `κ = sqrt(2m(V₀ - E)) / ℏ` is the decay constant inside the barrier.
 
 ```bash
 # Clone the repo
-git clone https://github.com/eashankgiriTL/Quantum-Tunnelling-Simulation.git
+git clone https://github.com/eashankgiriTL/Quantum_Tunnelling_Simulation.git
 
 # Navigate into the folder
-cd Quantum-Tunnelling-Simulation
+cd Quantum_Tunnelling_Simulation
 
 # Open in browser
 open quantum_tunnelling.html   # macOS
@@ -82,15 +82,6 @@ Quantum-Tunnelling-Simulation/
 ├── quantum_tunnelling.html     # Complete simulation (self-contained)
 └── README.md
 ```
-
----
-
-## 📸 Screenshot
-
-![Quantum Tunnelling Simulation Screenshot](screenshot.png)
-
-> *Wavefunction Ψ(x) plotted against Position x (nm), with the potential barrier region highlighted. Transmission probability shown in real-time.*
-
 ---
 
 ## 👤 Author
