@@ -89,6 +89,9 @@ Quantum-Tunnelling-Simulation/
 **Eashan K Giri**
 MBA Tech (Computer Engineering) — NMIMS MPSTME, Mumbai (2025–30)
 
+**Dhavan Jain**
+MBA Tech (Computer Engineering) — NMIMS MPSTME, Mumbai (2025–30)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eashankgiri108-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eashankgiri108/)
 [![GitHub](https://img.shields.io/badge/GitHub-eashankgiriTL-black?style=flat&logo=github)](https://github.com/eashankgiriTL)
 [![GitHub](https://img.shields.io/badge/GitHub-jaindhavan14-black?style=flat&logo=github)](https://github.com/jaindhavan14)
